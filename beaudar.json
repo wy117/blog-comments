@@ -1,5 +1,6 @@
 {
   "origins": [
-    "https://wy117.github.io/"
+    "https://wy117.github.io/",
+    "http://localhost:4000",
   ]
 }
